@@ -1,6 +1,3 @@
-# dockerlist
-
-
 Segue a lista de comandos docker e sua utilidade:
 
 docker attach  – Acessar dentro do container e trabalhar a partir dele.
